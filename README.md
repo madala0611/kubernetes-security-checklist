@@ -1,3 +1,17 @@
+**CKS repo topics overview**
+
+ Cluster Setup - 10%
+ 
+ Cluster Hardening - 15%
+ 
+ System Hardening - 15%
+ 
+ Minimize Microservice Vulnerabilities - 20%
+ 
+ Supply Chain Security - 20%
+ 
+ Monitoring, Logging and Runtime Security - 20%
+
 # Kubernetes Security Checklist and Requirements
 
 There are many ways to make your cluster secure, but we have chosen only one, the most difficult and controversial in some places. We do not guarantee that it will be completely suitable for your infrastructure, but we hope this checklist can help you include those things that you may have forgotten and left out.
