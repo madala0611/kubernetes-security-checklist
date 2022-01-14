@@ -1,4 +1,4 @@
-**CKS repo topics overview**
+**Kubernetes Security Topics Overview**
 
  Cluster Setup - 10%
  
